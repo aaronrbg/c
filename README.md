@@ -2,6 +2,8 @@
 
 This project is a site where multiple users can propose songs and vote for them, having them played in a synchronised way through Spotify.
 
+Testing a commit with a dif email
+
 ## Setting up
 
 The server can be run locally and also deployed to Heroku. You will need to register your own Spotify app and set the credentials in a couple of config files. For that:
