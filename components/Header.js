@@ -29,11 +29,8 @@ const Header = ({ session, muted, mutePlayback, unmutePlayback, login }) => (
   <div style={headerStyle}>
     <Link href="/">
       <a style={Object.assign({}, linkStyle, mainLinkStyle)}>
-        <img src="/static/c-icon-128.png" height="30" />
+        <img src="/static/derpfam.png" height="30" />
       </a>
-    </Link>
-    <Link href="/about">
-      <a style={linkStyle}><FormattedMessage id="about" /></a>
     </Link>
     {session.user
       ? <div className="media user-header">
