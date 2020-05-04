@@ -16,7 +16,7 @@ export default class IntlDocument extends Document {
     return (
       <html>
         <Head>
-          <title>C - Collaborative listening on Spotify</title>
+          <title>DerpJam - Collaborative listening on Spotify for DerpFam</title>
           <meta
             name="description"
             content="A collaborative queue where you propose and vote what's going to play next. Use your Spotify account to log in"
