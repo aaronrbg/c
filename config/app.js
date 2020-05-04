@@ -1,3 +1,3 @@
 module.exports = {
-  HOST: 'https://c-heroku.herokuapp.com'
+  HOST: 'https://derpjam.herokuapp.com'
 };
